@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amazonaws.demo.androidpubsubwebsocket"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="Pegasus Sample"
+        android:testOnly="true"
+        android:theme="@style/Theme.AppCompat" >
+        <activity android:name="com.amazonaws.demo.androidpubsubwebsocket.SampleActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.amazonaws.demo.androidpubsubwebsocket.PubSubActivity" />
+        <activity android:name="com.amazonaws.demo.androidpubsubwebsocket.LivingRoom" />
+        <activity android:name="com.amazonaws.demo.androidpubsubwebsocket.BedRoom" />
+        <activity android:name="com.amazonaws.demo.androidpubsubwebsocket.Kitchen" />
+    </application>
+
+</manifest>

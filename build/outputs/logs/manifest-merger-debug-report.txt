@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-27:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.12.7.aar/7574b50cf2c67662fe86ddc8f5a4a3e2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/63246323f503e14f63fd29bde93cb755/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/228b06e7fbecbaeb66b63cab62687ddd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ebb7d701098333cf2e68798618973174/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bab7cd9224391bd7fce70a471925eb57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ba1ab0fb8dbf7cff4b1bc9875da95d68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9307af5edee6ac1a6896d9eee475a085/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d65fe2eab11482bcdbb9b42801b0474d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3fed4944da7e1a05562ea40be970db4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4317e19ab99fd1c19f190e5b956f84e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ee1037004ee47cdbdd31c866647267c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7adbb5cbef11751eee398bb16617cb61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/86598efede014f1eb5d2a468f5fead5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/08b45cf6e450dc9c346bfcc675566203/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/791856ef154ec77709f3582c3dd568d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/896458865cc9602f7f260c3d08d7bb30/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bc75388b21d5da1fc81564cbe71b7d59/AndroidManifest.xml:2:1-11:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.12.7] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.12.7.aar/034e492c9579eb5780fd81be2b2cf046/AndroidManifest.xml:2:1-4:80
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/536c67977172af6047d123e29b10ed5d/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/afc8adcd8bb76e2ac89f55d0fc2d24f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/51e8cfb039f8cbe64b805cb7ea8c3c7d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c622a3a1f9b3268b4ef7a324c538a71f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a389fa09dc10276cd5aa4ec852f50dce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ff45b893eff42f7f93f77ce45d6f42ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a28319d616b1a718223587ed9ec91b59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/cb32edc2381dcbe83ac3a233628fa89d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/76a2835bbfa9a0916a3c033874b26e35/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8be6699273479e6727f825a5d5794ce5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5385306aa2b1fe9168d9c299905fa268/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:3:5-56
+	android:versionName
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+		INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+		INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:7:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.12.7.aar/7574b50cf2c67662fe86ddc8f5a4a3e2/AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.12.7.aar/7574b50cf2c67662fe86ddc8f5a4a3e2/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/896458865cc9602f7f260c3d08d7bb30/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/896458865cc9602f7f260c3d08d7bb30/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bc75388b21d5da1fc81564cbe71b7d59/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bc75388b21d5da1fc81564cbe71b7d59/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/536c67977172af6047d123e29b10ed5d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/536c67977172af6047d123e29b10ed5d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/896458865cc9602f7f260c3d08d7bb30/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:12:9-39
+	android:icon
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:13:9-47
+activity#com.amazonaws.demo.androidpubsubwebsocket.SampleActivity
+ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:14:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:18:27-74
+activity#com.amazonaws.demo.androidpubsubwebsocket.PubSubActivity
+ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:21:19-49
+activity#com.amazonaws.demo.androidpubsubwebsocket.LivingRoom
+ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:22:9-48
+	android:name
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:22:19-45
+activity#com.amazonaws.demo.androidpubsubwebsocket.BedRoom
+ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:23:9-45
+	android:name
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:23:19-42
+activity#com.amazonaws.demo.androidpubsubwebsocket.Kitchen
+ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:24:9-54
+	android:name
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml:24:19-42
+uses-sdk
+INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.12.7.aar/7574b50cf2c67662fe86ddc8f5a4a3e2/AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.12.7.aar/7574b50cf2c67662fe86ddc8f5a4a3e2/AndroidManifest.xml:4:5-73
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/63246323f503e14f63fd29bde93cb755/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/63246323f503e14f63fd29bde93cb755/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/228b06e7fbecbaeb66b63cab62687ddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/228b06e7fbecbaeb66b63cab62687ddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ebb7d701098333cf2e68798618973174/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ebb7d701098333cf2e68798618973174/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bab7cd9224391bd7fce70a471925eb57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bab7cd9224391bd7fce70a471925eb57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ba1ab0fb8dbf7cff4b1bc9875da95d68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ba1ab0fb8dbf7cff4b1bc9875da95d68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9307af5edee6ac1a6896d9eee475a085/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9307af5edee6ac1a6896d9eee475a085/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d65fe2eab11482bcdbb9b42801b0474d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d65fe2eab11482bcdbb9b42801b0474d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3fed4944da7e1a05562ea40be970db4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3fed4944da7e1a05562ea40be970db4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4317e19ab99fd1c19f190e5b956f84e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4317e19ab99fd1c19f190e5b956f84e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ee1037004ee47cdbdd31c866647267c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ee1037004ee47cdbdd31c866647267c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7adbb5cbef11751eee398bb16617cb61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7adbb5cbef11751eee398bb16617cb61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/86598efede014f1eb5d2a468f5fead5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/86598efede014f1eb5d2a468f5fead5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/08b45cf6e450dc9c346bfcc675566203/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/08b45cf6e450dc9c346bfcc675566203/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/791856ef154ec77709f3582c3dd568d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/791856ef154ec77709f3582c3dd568d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/896458865cc9602f7f260c3d08d7bb30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/896458865cc9602f7f260c3d08d7bb30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bc75388b21d5da1fc81564cbe71b7d59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bc75388b21d5da1fc81564cbe71b7d59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.12.7] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.12.7.aar/034e492c9579eb5780fd81be2b2cf046/AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.12.7] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.12.7.aar/034e492c9579eb5780fd81be2b2cf046/AndroidManifest.xml:4:1-69
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/536c67977172af6047d123e29b10ed5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/536c67977172af6047d123e29b10ed5d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/afc8adcd8bb76e2ac89f55d0fc2d24f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/afc8adcd8bb76e2ac89f55d0fc2d24f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/51e8cfb039f8cbe64b805cb7ea8c3c7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/51e8cfb039f8cbe64b805cb7ea8c3c7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c622a3a1f9b3268b4ef7a324c538a71f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c622a3a1f9b3268b4ef7a324c538a71f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a389fa09dc10276cd5aa4ec852f50dce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a389fa09dc10276cd5aa4ec852f50dce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ff45b893eff42f7f93f77ce45d6f42ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ff45b893eff42f7f93f77ce45d6f42ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a28319d616b1a718223587ed9ec91b59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a28319d616b1a718223587ed9ec91b59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/cb32edc2381dcbe83ac3a233628fa89d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/cb32edc2381dcbe83ac3a233628fa89d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/76a2835bbfa9a0916a3c033874b26e35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/76a2835bbfa9a0916a3c033874b26e35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8be6699273479e6727f825a5d5794ce5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8be6699273479e6727f825a5d5794ce5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5385306aa2b1fe9168d9c299905fa268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5385306aa2b1fe9168d9c299905fa268/AndroidManifest.xml:20:5-44
+INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+		INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+		ADDED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+		INJECTED from /Users/harshpatel/Desktop/Pegasus/AndroidPubSubWebSocket/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.12.7.aar/7574b50cf2c67662fe86ddc8f5a4a3e2/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] /Users/harshpatel/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.12.7.aar/7574b50cf2c67662fe86ddc8f5a4a3e2/AndroidManifest.xml:7:22-76
